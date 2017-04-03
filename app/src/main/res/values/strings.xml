@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week11_FirebaseChat</string>
+
+    <array name="list">List>
+        <item>WOOOHOO 1</item>
+        <item>BOODOO 2</item>
+        <item>LOOOHOO 2</item>
+    </array>
+</resources>
